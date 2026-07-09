@@ -136,7 +136,8 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramlatif95&layout=compact&theme=tokyonight"/>
 </p>
 
----
+--- 
+
 
 # 🔥 GitHub Streak
 
@@ -144,7 +145,13 @@
 <img src="https://streak-stats.demolab.com?user=iramlatif95&theme=tokyonight"/>
 </p>
 
----
+--- 
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=iramlatif95&theme=tokyonight&row=1&column=6"/>
+</p>
 
 # 📫 Connect With Me
 
