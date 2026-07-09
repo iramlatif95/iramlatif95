@@ -151,11 +151,10 @@
 </p>
 
 --- 
-
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iramlatif95&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iramlatif95&theme=tokyonight&row=1&column=6" />
 </p>
 
 # 📫 Connect With Me
