@@ -122,9 +122,11 @@
 
 ---
 
-# 📊 GitHub Stats 
+# 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iramlatif95&theme=tokyonight&row=1&column=6&margin-w=15" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=iramlatif95&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iramlatif95&layout=compact&theme=tokyonight" />
 </p>
 
 # 📊 GitHub Stats
