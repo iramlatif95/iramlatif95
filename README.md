@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Python Backend Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=900&lines=AI+Engineer;Python+Backend+Engineer;Django+%7C+FastAPI+Developer;LangChain+%7C+LangGraph+Developer;Building+AI+Powered+Applications;Open+to+AI+Engineer+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=900&lines=AI+Engineer;Python+Backend+Engineer;Django+%7C+Developer;LangChain+%7C+LangGraph+Developer;Building+AI+Powered+Applications;Open+to+AI+Engineer+Opportunities"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 🤖 Passionate about AI, Large Language Models, Backend Development, and Intelligent Systems.
 
-🔭 Currently building AI applications using **LangChain**, **LangGraph**, **FastAPI**, and **LLMs**.
+🔭 Currently building AI applications using **LangChain**, **LangGraph**, and **LLMs**.
 
 🌱 Exploring **RAG**, **AI Agents**, **Agentic AI Workflows**, and **Generative AI**.
 
@@ -58,9 +58,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-6C2BD9?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-blueviolet?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-success?style=for-the-badge)
-![Natural Language Processing](https://img.shields.io/badge/NLP-informational?style=for-the-badge)
+
 
 ### 🛠 Tools
 
@@ -77,7 +75,7 @@
 
 - LangChain
 - LangGraph
-- FastAPI
+- n8n
 - LLM Integration
 - RAG Pipeline
 
@@ -153,7 +151,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/Iramlatif/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
